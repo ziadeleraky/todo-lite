@@ -1,2 +1,2 @@
-## Todo Lite 
+## Todo Lite Project
 
